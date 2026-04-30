@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mohamed, a Fullstack Web Developer based in Turin, Italy.<br>I hold a Bachelor's degree in Computer Science and am currently pursuing a Master's in Software Engineering.<br>I enjoy building web applications, exploring new technologies, and turning ideas into real projects.<br>Passionate about clean code, learning new frameworks, and sharing my work on GitHub.
+👋 Hi, I’m Mohamed, a Software Developer based in Turin, Italy.<br>I hold a Bachelor's degree in Computer Science and am currently pursuing a Master's in Software Engineering.<br>I enjoy building web applications, exploring new technologies, and turning ideas into real projects.<br>Passionate about clean code, learning new frameworks, and sharing my work on GitHub.
 
 
 ## 🌐 Socials:
